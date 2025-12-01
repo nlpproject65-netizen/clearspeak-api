@@ -1,3 +1,4 @@
+clearspeak-api
 # ClearSpeak – Simple Indian English Text Simplifier
 
 ClearSpeak is a small Streamlit web app that converts complex legal, government, and formal English sentences into simple Indian English.  
