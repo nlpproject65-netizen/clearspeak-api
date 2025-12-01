@@ -16,4 +16,5 @@ It is built mainly for students, common users, and organisations who want easy-t
 ---
 
 ## 📁 Project Structure
+pip install -r requirements.txt
 
